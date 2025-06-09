@@ -1,14 +1,14 @@
 {
   "name": "react-native-watch-appstate",
   "version": "1.0.7",
-  "description": "React Native appState hook",
+  "description": "一款用于react-native监听appState前台与后台的自定义Hooks开源插件",
   "main": "dist/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yrjwcharm/react-native-appstate.git"
+    "url": "git@github.com:yrjwcharm/react-native-appstate.git"
   },
   "keywords": [
     "react",
