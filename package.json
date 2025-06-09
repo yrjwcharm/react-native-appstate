@@ -1,0 +1,35 @@
+{
+  "name": "react-native-watch-appstate",
+  "version": "1.0.7",
+  "description": "React Native appState hook",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrjwcharm/react-native-appstate.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "hook",
+    "component",
+    "hooks",
+    "appState",
+    "app",
+    "state",
+    "iOS",
+    "Android"
+  ],
+  "author": "amrlabib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yrjwcharm/react-native-appstate/issues"
+  },
+  "homepage": "https://github.com/yrjwcharm/react-native-appstate#readme",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-native": "^0.59.0"
+  }
+}
