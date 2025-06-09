@@ -1,4 +1,4 @@
-## react-native-appstate-listener
+## react-native-watch-appstate
 
 React Native appState hook is a custom [react hook](https://reactjs.org/docs/hooks-intro.html), built to handle iOS or Android or Harmony `appState` in your react component
 

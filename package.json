@@ -1,36 +1,36 @@
 {
-  "name": "react-native-watch-appstate",
-  "version": "1.0.8",
+  "author": "闫瑞锋",
+  "bugs": {
+    "url": "https://github.com/yrjwcharm/react-native-appstate/issues"
+  },
   "description": "一款用于react-native监听app[AppState]前后台的自定义Hooks开源插件",
+  "homepage": "https://github.com/yrjwcharm/react-native-appstate#readme",
+  "keywords": [
+    "Android",
+    "app",
+    "appState",
+    "component",
+    "harmony",
+    "hook",
+    "hooks",
+    "iOS",
+    "react",
+    "react-native",
+    "state"
+  ],
+  "license": "ISC",
   "main": "dist/index.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "react-native-watch-appstate",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-native": "^0.59.0"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:yrjwcharm/react-native-appstate.git"
   },
-  "keywords": [
-    "react",
-    "react-native",
-    "hook",
-    "component",
-    "hooks",
-    "appState",
-    "app",
-    "state",
-    "iOS",
-    "Android",
-    "harmony"
-  ],
-  "author": "闫瑞锋",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yrjwcharm/react-native-appstate/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/yrjwcharm/react-native-appstate#readme",
-  "peerDependencies": {
-    "react": "^16.8.0",
-    "react-native": "^0.59.0"
-  }
+  "version": "1.1.0"
 }
