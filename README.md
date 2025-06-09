@@ -10,11 +10,11 @@ React Native appState hook is a custom [react hook](https://reactjs.org/docs/hoo
 
 ## 安装
 
-`yarn add react-native-appstate-listener`
+`yarn add react-native-watch-appstate`
 
 OR
 
-`npm install --save react-native-appstate-listener`
+`npm install react-native-watch-appstate`
 
 ---
 

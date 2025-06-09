@@ -1,7 +1,7 @@
 {
   "name": "react-native-watch-appstate",
-  "version": "1.0.7",
-  "description": "一款用于react-native监听appState前台与后台的自定义Hooks开源插件",
+  "version": "1.0.8",
+  "description": "一款用于react-native监听app[AppState]前后台的自定义Hooks开源插件",
   "main": "dist/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,9 +20,10 @@
     "app",
     "state",
     "iOS",
-    "Android"
+    "Android",
+    "harmony"
   ],
-  "author": "amrlabib",
+  "author": "闫瑞锋",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yrjwcharm/react-native-appstate/issues"
