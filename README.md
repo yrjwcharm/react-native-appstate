@@ -23,7 +23,7 @@ OR
 ```javascript
 import React from "react";
 import { Text, View } from "react-native";
-import useAppState from "react-native-appstate-hook";
+import useAppState from "react-native-watch-appstate";
 
 export default function App() {
   const appState = useAppState({
